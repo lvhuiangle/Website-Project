@@ -1,0 +1,25 @@
+{
+	"name":"confusion_solution",
+	"authors":[
+		"Hui Lyu <lvhuiangle@126.com>"
+	],
+	"description":　＂1.0.0＂,
+	"main": "Website for an awesome restaurant",
+  "keywords": [
+    "confusion_solution",
+    "fusion",
+    "restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+
+}
